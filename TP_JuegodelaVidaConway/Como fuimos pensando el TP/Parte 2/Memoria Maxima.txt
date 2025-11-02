@@ -1,0 +1,14 @@
+Memoria Maxima = cf * sizeof(char*) + cf * cc * sizeof(char)
+
+Memoria Maxima = 242750 * 8 + 242750 * 242184 * 1
+
+Memoria Maxima = 58.792.108.000 Bytes o 58,792108 Gigabytes
+
+El límite de memoria es tan alto porque la PC que utilizamos para hacer
+este experimento trabaja en un sistema de 64 bits, que puede direccionar
+grandes cantidades de memoria, y tiene una combinación significativa de
+Memoria RAM (32 GB) y Memoria Virtual o SWAP (4864 MB) disponible. 
+Los sistemas modernos permiten asignar grandes bloques de memoria, y este
+límite refleja la capacidad total del sistema para un solo proceso, antes
+de que se agoten los recursos o se alcancen las restricciones impuestas
+por el sistema operativo.

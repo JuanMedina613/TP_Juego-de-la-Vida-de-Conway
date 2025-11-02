@@ -1,0 +1,4 @@
+(cf/2+)cantidad_de_filas_dividido_2_mas:|cc/2+(cantidad_de_columnas_dividido_2_mas:
+-7|-5
+5|-17
+12|2
